@@ -1,5 +1,5 @@
 {
-  "name": "@xrelly/telegram-socket",
+  "name": "@Luxxy-appocalype/telegram-sockets",
   "version": "0.1.0",
   "description": "Low-level Telegram Bot API socket inspired by Baileys",
   "main": "src/index.js",
@@ -13,7 +13,7 @@
     "socket",
     "baileys"
   ],
-  "author": "Xrelly",
+  "author": "Ririn Official",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.12"
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xrelly-spec/telegram-socket"
+    "url": "https://github.com/Luxxy-appocalype/telegram-sockets"
   },
   "bugs": {
-    "url": "https://github.com/xrelly-spec/telegram-socket/issues"
+    "url": "https://github.com/Luxxy-appocalype/telegram-sockets/issues"
   },
-  "homepage": "https://github.com/xrelly-spec/telegram-socket#readme"
+  "homepage": "https://github.com/Luxxy-appocalype/telegram-sockets#readme"
 }

@@ -4,4 +4,4 @@ Low-level Telegram Bot API socket inspired by @whiskeysockets/baileys.
 
 ## Install
 ```bash
-npm install @xrelly-spec/telegram-socket
+npm install @Luxxy-appocalype/telegram-sockets
